@@ -1,3 +1,36 @@
+# Units_of_Measure_Harmonization-intelligence-platform
+
+> KNIME-based machine-learning workflow for detecting and harmonizing unit-of-measure errors in enterprise data.
+
+## At a glance
+
+| Need | Start here |
+|---|---|
+| Understand the project | This overview and the existing project documentation below. |
+| Install or run it | Follow the first **Getting started**, **Installation**, **Quick Start**, or **Setup** section below. |
+| Find the implementation | Start with the repository root and the file map below; inspect the primary app, package, workflow, or source directory before changing code. |
+| Configure it | Search the documentation below for `.env`, environment variables, secrets, Docker, or configuration files. Never commit credentials. |
+| Report a problem | [Open an issue](https://github.com/gaurav-chakraborty/Units_of_Measure_Harmonization-intelligence-platform/issues). Include reproduction steps, logs, versions, and expected versus actual behavior. |
+
+## Repository map
+
+Inspect the repository root for the primary source, workflow, configuration, and deployment files.
+
+## Links
+
+| Resource | Link |
+|---|---|
+| Source repository | [GitHub](https://github.com/gaurav-chakraborty/Units_of_Measure_Harmonization-intelligence-platform) |
+| Issues and discussions | [Issues](https://github.com/gaurav-chakraborty/Units_of_Measure_Harmonization-intelligence-platform/issues) |
+| Change history | [Commits](https://github.com/gaurav-chakraborty/Units_of_Measure_Harmonization-intelligence-platform/commits/main) |
+| Automation | [Actions](https://github.com/gaurav-chakraborty/Units_of_Measure_Harmonization-intelligence-platform/actions) |
+
+## Documentation
+
+The original project documentation is preserved below. Use the navigation above to locate setup, usage, configuration, architecture, contribution, and status details.
+
+---
+
 ﻿<div align="center">
 
 # Units of Measure Harmonization Intelligence Platform
